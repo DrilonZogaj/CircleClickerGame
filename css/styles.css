@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+canvas {
+    border: 1px solid #000;
+    background-color: #fff;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 20px;
+    color: #666;
+}
